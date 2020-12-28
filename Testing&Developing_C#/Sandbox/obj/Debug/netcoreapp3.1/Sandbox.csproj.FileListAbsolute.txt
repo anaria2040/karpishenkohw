@@ -1,0 +1,13 @@
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.exe
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.deps.json
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.json
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.dev.json
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.dll
+D:\my projects\Testing&Developing_C#\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.pdb
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csprojAssemblyReference.cache
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfoInputs.cache
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfo.cs
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csproj.CoreCompileInputs.cache
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.dll
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.pdb
+D:\my projects\Testing&Developing_C#\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.genruntimeconfig.cache
